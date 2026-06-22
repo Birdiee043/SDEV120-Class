@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="K6-QYbu24B3iXChKdeGF">
+    <mxGraphModel dx="1022" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wn7k30q_C37nLTAGaE5E-2" edge="1" parent="1" source="wn7k30q_C37nLTAGaE5E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Module calculateCharges(numberofbathrooms,&lt;div&gt;numberofOtherooms)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-4" edge="1" parent="1" source="wn7k30q_C37nLTAGaE5E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="totalCost=40 +&lt;div&gt;(numberofBathrooms 15) +&lt;/div&gt;&lt;div&gt;(number of OtherRooms 10)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-6" edge="1" parent="1" source="wn7k30q_C37nLTAGaE5E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Return Total Cost" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="wn7k30q_C37nLTAGaE5E-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
